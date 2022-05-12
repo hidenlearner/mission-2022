@@ -6,7 +6,7 @@ body {
   font-family: "Roboto Mono", monospace;
   font-family: "Ubuntu", sans-serif;
 }
-.mission {
+section {
   padding: 100px;
   display: flex;
   flex-wrap: nowrap;
@@ -37,4 +37,43 @@ div img {
   padding: 10px 40px;
   color: white;
   border-radius: 4px;
+}
+.three-half {
+  width: 33%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.three-half img {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+}
+
+.my-mission-heading {
+  text-align: center;
+  font-size: 50px;
+}
+
+.my-mission-heading span {
+  color: orange;
+  font-size: 50px;
+}
+
+.three-half p {
+  width: 300px;
+}
+
+.mission-card {
+  background-color: palegoldenrod;
+  margin-right: 20px;
+}
+.vission {
+  background-color: rgb(97, 196, 75);
+  margin-right: 20px;
+}
+
+.goal {
+  background-color: coral;
 }
