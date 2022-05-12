@@ -87,3 +87,15 @@ div img {
 .devolopment-heading {
   font-size: 45px;
 }
+.commonity img {
+  margin-left: 70px;
+  width: 300px;
+  height: 325px;
+}
+
+.commonity {
+  background-image: url(./image/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 600px;
+}
