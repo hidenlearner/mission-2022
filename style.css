@@ -99,3 +99,18 @@ div img {
   background-position: right;
   background-size: 600px;
 }
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 50px;
+  margin-top: 50px;
+}
+footer h2 {
+  font-size: 50px;
+}
+footer h2 span {
+  color: orange;
+  font-size: 50px;
+}
