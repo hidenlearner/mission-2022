@@ -34,9 +34,10 @@ div img {
 .link-btn {
   text-decoration: none;
   background-color: rgb(227, 100, 15);
-  padding: 10px 40px;
+  padding: 12px 40px;
   color: white;
   border-radius: 4px;
+  margin-top: 20px;
 }
 .three-half {
   width: 33%;
@@ -76,4 +77,13 @@ div img {
 
 .goal {
   background-color: coral;
+}
+
+.devolopment img {
+  margin-left: 60px;
+  height: 400px;
+  width: 440px;
+}
+.devolopment-heading {
+  font-size: 45px;
 }
